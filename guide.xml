@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CINEMAX">
+    <display-name lang="pt">CINEMAX</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="pt">HBO FAMILY</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="pt">HBO SIGNATURE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE ACTIOM">
+    <display-name lang="pt">TELE CINE ACTIOM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE CULT">
+    <display-name lang="pt">TELE CINE CULT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE FUN">
+    <display-name lang="pt">TELE CINE FUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE PIPOCA">
+    <display-name lang="pt">TELE CINE PIPOCA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE PREMIUN">
+    <display-name lang="pt">TELE CINE PREMIUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELE CINE TOUCH">
+    <display-name lang="pt">TELE CINE TOUCH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="pt">NAT GEO WILD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="PREMIER CLUBE">
+    <display-name lang="pt">PREMIER CLUBE</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">SPORTV 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
